@@ -6,3 +6,4 @@ local/
 
 # メインのデータベース
 main.db
+test.db
