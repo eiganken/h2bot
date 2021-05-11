@@ -1,0 +1,6 @@
+path:
+  database: ./database
+  command: ./command
+
+# main: 本番環境, test: テスト環境
+state: test
