@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+
+# ローカルに保存するもの
+local/
+
+# メインのデータベース
+main.db
